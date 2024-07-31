@@ -1,4 +1,5 @@
-![gabriel (1)](https://github.com/user-attachments/assets/03e533dd-ab64-4fe1-b5b0-3c13b6649dc4)
+
+![gabriel (1)](https://github.com/user-attachments/assets/217219e1-b96d-4da4-a8c4-c657f041ea0c)
 
 <h1 align="center">Oi 👋, sou o Gabriel Bueno</h1>
 <h3 align="center">Desenvolver Full-Stack | Brasil</h3>
