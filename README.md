@@ -2,7 +2,7 @@
 ![gabriel (1)](https://github.com/user-attachments/assets/217219e1-b96d-4da4-a8c4-c657f041ea0c)
 
 <h1 align="center">Oi 👋, sou o Gabriel Bueno</h1>
-<h3 align="center">Desenvolver Full-Stack | Brasil</h3>
+<h3 align="center">Desenvolver Junior | Brasil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabebuenu&label=Profile%20views&color=0e75b6&style=flat" alt="gabebuenu" /> </p>
 
