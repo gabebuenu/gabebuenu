@@ -9,10 +9,9 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Unimar**.
-- 💡 Buscando oportunidades para aplicar meus conhecimentos em **C# / .NET** e **Web Development**.
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** na **Unimar**.
 - 🌱 Constantemente estudando novas tecnologias e melhores práticas de código.
-- 📫 Como me encontrar: **gabrielunimar@outlook.com**
+- 📫 Como me encontrar: **ugabrieubuenu@gmail.com**
 
 ---
 
